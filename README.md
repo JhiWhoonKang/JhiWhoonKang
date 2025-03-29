@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **JhiWhoonKang/JhiWhoonKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,32 +16,33 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/C-004482?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/FRAMEWORK-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=dotnet&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/TOOL-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+# 👋 Hello!
+I'm a developer with a keen interest in **embedded systems** and a background in **mechatronics engineering**. I thrive on bridging the gap between hardware and software, and I'm passionate about exploring innovative solutions in both domains.
 
+# 🌱 Collaboration & Growth
+I love **sharing** my projects and ideas, and **collaborating** with fellow enthusiasts and professionals. If you have any questions or are interested in teaming up, feel free to reach out!
 
-🏆 Awards
+# 🏆 Awards
 
-📌 2019
+#### 📌 2019
 
 - 🥉 1st University President's Cup Robot Programming Competition, Tech University of Korea - 3rd Place (Hamster Robot, Scratch Category)
 
-📌 2022
+#### 📌 2022
 
 - 🎖️ Mechatronics Engineering MCC Arduino Challenge, Tech University of Korea - Encouragement Award
 
-📌 2023
+#### 📌 2023
 
 - 🥉 Shared University Robot Manufacturing Competition - 3rd Place
 
-- 🥇 Hanium ICT Mentoring Contest - Gold Prize (Minister of Science and ICT Award)
+- 🥇 [Hanium ICT Mentoring Contest](https://github.com/JhiWhoonKang/Hanium-Competition-Workspace) - Gold Prize (Minister of Science and ICT Award)
 
-📌 2024
+#### 📌 2024
 
 - 📜 ICROS (Institute of Control, Robotics and Systems) Undergraduate Thesis Competition - Undergraduate Thesis Award
 
-- 🏅 Tech University of Korea Engineering Fair - Korea Evaluation Institute of Industrial Technology President Award
+- 🏅 [Tech University of Korea Engineering Fair](https://github.com/JhiWhoonKang/TUK-GraduationTeam-ws) - Korea Evaluation Institute of Industrial Technology President Award
 
 - 🥈 2024 Creative Comprehensive Design Competition - Excellence Award (Korea Institute for Advancement of Technology President Award)
 
