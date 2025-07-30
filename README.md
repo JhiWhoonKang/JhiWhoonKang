@@ -23,8 +23,10 @@ I’m JhiWhoon Kang, passionate about **embedded systems** development grounded 
 My goal is to grow into a convergence developer who seamlessly bridges hardware and software and melds them into a unified solution.
 
 # 🌱 Collaboration & Growth
-저는 제 프로젝트와 아이디어를 공유하고 동료 및 전문가들과 협업하는 것을 좋아합니다. 궁금한 점이 있거나 함께 프로젝트 해보고 싶으시다면 언제든지 편하게 연락주세요!
-I love **sharing** my projects and ideas and **collaborating** with peers and professionals. If you have any questions or would like to work together, feel free to reach out anytime!
+저는 제 프로젝트와 아이디어를 공유하고 동료 및 전문가들과 협업하는 것을 좋아합니다. <br>
+궁금한 점이 있거나 함께 프로젝트 해보고 싶으시다면 언제든지 편하게 연락주세요! <br><br>
+I love **sharing** my projects and ideas and **collaborating** with peers and professionals. <br>
+If you have any questions or would like to work together, feel free to reach out anytime!
 
 # 🏆 Awards
 
